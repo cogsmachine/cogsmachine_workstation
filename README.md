@@ -25,4 +25,4 @@ Please feel free to get in touch by opening an issue report, submitting a pull r
 
 ## Disclaimer
 
-Opinions expressed in this work are those of the authors, and do not necessarily reflect the view of PricewaterhouseCoopers (PwC) International Ltd. nor its network firms.
+Opinions expressed in this work are those of the authors.
