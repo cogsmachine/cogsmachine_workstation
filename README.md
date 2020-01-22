@@ -15,7 +15,7 @@ Includes pytorch pycuda numpy scipy matplotlib pandas scikit-learn dask
 
 ## SUPPORTED GPUs 
 
-NVIDIA TITAN Series:
+## NVIDIA TITAN Series:
 NVIDIA TITAN RTX, NVIDIA TITAN V, NVIDIA TITAN Xp, GeForce GTX TITAN X, GeForce GTX TITAN, GeForce GTX TITAN Black, GeForce GTX TITAN Z
 
 ## GeForce RTX 20 Series (Notebooks):
