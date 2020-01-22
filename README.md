@@ -1,6 +1,11 @@
 ## COGSmachine
 
 ## COGSmachine Workstation
+.. code:: bash
+
+    pipenv shell
+     jupyter lab
+
 cogsmachine's developer workstation reference to build NVIDIA GPU turbocharged AI Workstation
 
 COGSmachine Workstation is on Docker Hub.
