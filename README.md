@@ -1,6 +1,6 @@
-# cogsmachine
+# COGSmachine
 
-Cogsmachine project repositories.
+![COGSmachine](http://cogsmachine.com/images/intro-to-cogsmachine.p4-1900.png)
 
 ## COGSmachine Workstation
 This is cogsmachine's developer workstation reference used to build NVIDIA AI Workstation in 5 to 10 minutes.
