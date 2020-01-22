@@ -1,12 +1,16 @@
 ## COGSmachine
+.. 
+
+    pipenv shell
+     jupyter lab
 
 ## COGSmachine Workstation
 cogsmachine's developer workstation reference to build NVIDIA turbocharged AI Workstation in 5 to 10 minutes depending on your network connection and HW rig config.
 
 COGSmachine Workstation is on Docker Hub.
-
-docker pull cogsmachine/workstation:latest  
-docker run cogsmachine/workstation:latest 
+.. code:: bash
+  docker pull cogsmachine/workstation:latest  
+  docker run cogsmachine/workstation:latest 
 
 Includes pytorch pycuda numpy scipy matplotlib pandas scikit-learn dask   
 ![Pytorch](https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-dark.png)
