@@ -1,22 +1,20 @@
 ## COGSmachine
 
 ## COGSmachine Workstation
-.. code:: bash
 
-    pipenv shell
-     jupyter lab
-
-cogsmachine's developer workstation reference to build NVIDIA GPU turbocharged AI Workstation
-
-COGSmachine Workstation is on Docker Hub.
-..
-    docker pull cogsmachine/workstation:latest 
-    docker run cogsmachine/workstation:latest  
-
-Includes pytorch pycuda numpy scipy matplotlib pandas scikit-learn dask   
 ![Pytorch](https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-dark.png)
 ![scipy](https://miro.medium.com/max/3586/1*OTQHk3rsuzwdidO9zgSOfA.png)
 ![cuda](https://dl2.macupdate.com/images/icons256/27014.png)
+
+COGSmachine's developer workstation reference to build NVIDIA GPU turbocharged AI Workstation
+COGSmachine Workstation is on Docker Hub.
+
+    docker pull cogsmachine/workstation:latest 
+    docker run cogsmachine/workstation:latest 
+
+COGSmachine JupyterLab environment:
+
+     pytorch pycuda numpy scipy matplotlib pandas scikit-learn jupyterlab dask 
 
 ## SUPPORTED GPUs 
 
