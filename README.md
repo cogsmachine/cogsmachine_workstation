@@ -1,16 +1,19 @@
-# COGSmachine
+## COGSmachine
 
 ## COGSmachine Workstation
-This is cogsmachine's developer workstation reference used to build NVIDIA AI Workstation in 5 to 10 minutes.
-
-Includes JupyterLab with NVIDIA GPU Support to run GPU accelerated Jupyter Notebooks.
+cogsmachine's developer workstation reference to build NVIDIA turbocharged AI Workstation in 5 to 10 minutes depending on your network connection and HW rig config.
 
 COGSmachine Workstation is on Docker Hub.
 
 docker pull cogsmachine/workstation:latest  
 docker run cogsmachine/workstation:latest 
 
-GPU REQUIREMENTS
+Includes pytorch pycuda numpy scipy matplotlib pandas scikit-learn dask   
+![Pytorch](https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-dark.png)
+![scipy](https://miro.medium.com/max/3586/1*OTQHk3rsuzwdidO9zgSOfA.png)
+![cuda](https://dl2.macupdate.com/images/icons256/27014.png)
+
+## GPU REQUIREMENTS
 
 ## NVIDIA TITAN Series:
 NVIDIA TITAN RTX, NVIDIA TITAN V, NVIDIA TITAN Xp, GeForce GTX TITAN X, GeForce GTX TITAN, GeForce GTX TITAN Black, GeForce GTX TITAN Z
