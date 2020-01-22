@@ -1,12 +1,12 @@
 ## COGSmachine
 
-## COGSmachine Workstation
-
-![Pytorch](https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-dark.png)
-![scipy](https://miro.medium.com/max/3586/1*OTQHk3rsuzwdidO9zgSOfA.png)
 ![cuda](https://dl2.macupdate.com/images/icons256/27014.png)
 
+## COGSmachine Workstation
+
+
 COGSmachine's developer workstation reference to build NVIDIA GPU turbocharged AI Workstation
+
 COGSmachine Workstation is on Docker Hub.
 
     docker pull cogsmachine/workstation:latest 
@@ -15,6 +15,8 @@ COGSmachine Workstation is on Docker Hub.
 COGSmachine JupyterLab environment:
 
      pytorch pycuda numpy scipy matplotlib pandas scikit-learn jupyterlab dask 
+![Pytorch](https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-dark.png)
+![scipy](https://miro.medium.com/max/3586/1*OTQHk3rsuzwdidO9zgSOfA.png)
 
 ## SUPPORTED GPUs 
 
