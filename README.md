@@ -1,5 +1,5 @@
 ## COGSmachine
-![jupyterlab](https://miro.medium.com/max/270/1*wOHyKy6fl3ltcBMNpCvC6Q.png) ![cuda](https://dl2.macupdate.com/images/icons256/27014.png)
+![cogsmachine](http://cogsmachine.com/images/intro-to-cogsmachine.p3-1900.png)
 
 ## COGSmachine Workstation
 
@@ -14,7 +14,7 @@ COGSmachine Workstation is on Docker Hub.
 COGSmachine JupyterLab environment:
 
      pytorch pycuda numpy scipy matplotlib pandas scikit-learn jupyterlab dask 
-![Pytorch](https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-dark.png)
+
 ![scipy](https://miro.medium.com/max/3586/1*OTQHk3rsuzwdidO9zgSOfA.png)
 
 ## SUPPORTED GPUs 
