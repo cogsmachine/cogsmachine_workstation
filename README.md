@@ -2,9 +2,15 @@
 
 Cogsmachine project repositories.
 
-## COGSmachine 
+## COGSmachine Workstation
+This is cogsmachine's developer workstation reference used to build NVIDIA AI Workstation in 5 to 10 minutes.
 
-COGS Solo includes all the basic packages to run GPU accelerated Jupyter Notebooks.
+Includes JupyterLab with NVIDIA GPU Support to run GPU accelerated Jupyter Notebooks.
+
+COGSmachine Workstation is on Docker Hub.
+
+docker pull cogsmachine/workstation:latest  
+docker run cogsmachine/workstation:latest 
 
 GPU REQUIREMENTS
 
