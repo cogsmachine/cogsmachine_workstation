@@ -1,6 +1,5 @@
 ## COGSmachine
-
-![cuda](https://dl2.macupdate.com/images/icons256/27014.png)
+![jupyterlab](https://miro.medium.com/max/270/1*wOHyKy6fl3ltcBMNpCvC6Q.png) ![cuda](https://dl2.macupdate.com/images/icons256/27014.png)
 
 ## COGSmachine Workstation
 
