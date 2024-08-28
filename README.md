@@ -1,5 +1,5 @@
 ## COGSmachine
-![cogsmachine](http://cogsmachine.com/images/intro-to-cogsmachine.p3-1900.png)
+![cogsmachine](https://cdn.shopify.com/s/files/1/0359/3184/8835/files/cogsmachine_logo.png?height=628&pad_color=fff&v=1613217480&width=1200)
 
 ## COGSmachine Workstation
 
