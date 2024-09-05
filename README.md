@@ -17,6 +17,11 @@ COGSmachine JupyterLab environment:
 
 ![scipy](https://miro.medium.com/max/3586/1*OTQHk3rsuzwdidO9zgSOfA.png)
 
+## REQUIREMENTS AND SETUP
+
+If you have an older gaming rig with at least one of the supported GPUs listed below AND you want to build a CUDA, pytorch, JupyterLab devstation, you'll need to do a few things.  First, if you have windows installed you'll either have to install Linux (Ubuntu) in dual boot fashion or wipe the Windows install altogether.   Refer to the script for Ubuntu 16.04 in the repo and adapt/update accordingly if you want a newer release (the 16.04 is still great and has a few advantages however) 
+
+
 ## SUPPORTED GPUs 
 
 NVIDIA TITAN Series:
